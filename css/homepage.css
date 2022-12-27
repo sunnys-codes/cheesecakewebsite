@@ -1,0 +1,357 @@
+/* screen - homepage */
+
+.homepage {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1414px;
+  overflow: hidden;
+  width: 1076px;
+}
+
+.homepage .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-2@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-height: 414px;
+  padding: 88px 191px;
+  width: 1076px;
+}
+
+.homepage .title {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 50px;
+  font-weight: 900;
+  height: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 119px;
+  width: 442px;
+}
+
+.homepage .time-to-grab-the-bes {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 472px;
+}
+
+.homepage .overlap-group4 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 80px;
+  height: 306px;
+  margin-left: -4px;
+  min-width: 1080px;
+  padding: 18px 50px;
+}
+
+.homepage .rectangle-5 {
+  height: 206px;
+  margin-bottom: 8.0px;
+  width: 202px;
+}
+
+.homepage .overlap-group-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 242px;
+  width: 620px;
+}
+
+.homepage .overlap-group1 {
+  height: 184px;
+  position: relative;
+  width: 620px;
+}
+
+.homepage .spread-a-little-joy {
+  color: var(--rajah);
+  font-family: var(--font-family-pattaya);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 455px;
+}
+
+.homepage .we-look-forward-to-h {
+  color: var(--rajah);
+  font-family: var(--font-family-pattaya);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 144px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  width: 620px;
+}
+
+.homepage .overlap-group {
+  height: 46px;
+  position: relative;
+  width: 143px;
+}
+
+
+.homepage .explore {
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 143px;
+  color: #fde9d2;
+}
+
+.homepage .explore:link {
+  color:#c0b597;
+  background: transparent;
+  text-decoration: none;
+
+}
+
+.homepage .believe-section {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 31px;
+  min-width: 1078px;
+}
+
+.homepage .overlap-group3 {
+  height: 291px;
+  position: relative;
+  width: 1076px;
+}
+
+.homepage .rectangle-7 {
+  background-color: var(--white);
+  height: 291px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1072px;
+}
+
+.homepage .rectangle-8 {
+  background-color: #edc89f;
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1076px;
+}
+
+.homepage .cheesecake-will-always-taste-like-love {
+  color: var(--neon-carrot);
+  font-family: var(--font-family-pattaya);
+  font-size: 40px;
+  font-weight: 400;
+  left: 242px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 631px;
+}
+
+.homepage .group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 181px;
+  left: 42px;
+  min-width: 998px;
+  position: absolute;
+  top: 110px;
+}
+
+.homepage .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: -0.5px;
+  min-height: 182px;
+  width: 247px;
+}
+
+.homepage .overlap-group-1 {
+  height: 114px;
+  margin-right: 5.5px;
+  position: relative;
+  width: 124px;
+}
+
+.homepage .ellipse-4 {
+  background-color: var(--rajah-2);
+  border-radius: 50px;
+  height: 100px;
+  left: 24px;
+  position: absolute;
+  top: 14px;
+  width: 100px;
+}
+
+.homepage .group {
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.homepage .handmade-by-scratch {
+  height: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 247px;
+}
+
+.homepage .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 133px;
+  margin-top: -1.5px;
+  min-height: 183px;
+  width: 236px;
+}
+
+.homepage .overlap-group1-1 {
+  height: 111px;
+  margin-right: 27.5px;
+  position: relative;
+  width: 142px;
+}
+
+.homepage .ellipse-4-1 {
+  background-color: var(--rajah-2);
+  border-radius: 50px;
+  height: 100px;
+  left: 42px;
+  position: absolute;
+  top: 11px;
+  width: 100px;
+}
+
+.homepage .highest-quality-all-natural-ingredients {
+  height: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 236px;
+}
+
+.homepage .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 140px;
+  min-height: 168px;
+  width: 236px;
+}
+
+.homepage .overlap-group2 {
+  height: 106px;
+  margin-right: 13.0px;
+  position: relative;
+  width: 123px;
+}
+
+.homepage .ellipse-5 {
+  background-color: var(--rajah-2);
+  border-radius: 50px;
+  height: 100px;
+  left: 23px;
+  position: absolute;
+  top: 6px;
+  width: 100px;
+}
+
+.homepage .vector {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.homepage .keeping-it-local {
+  height: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 236px;
+}
+
+.homepage .overlap-group6 {
+  height: 340px;
+  margin-left: -14px;
+  margin-top: 32px;
+  position: relative;
+  width: 1076px;
+}
+
+.homepage .footer {
+  align-items: flex-start;
+  background-color: var(--fantasy);
+  display: flex;
+  height: 340px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1076px;
+  padding: 40px 174px;
+  position: absolute;
+  top: 0;
+}
+
+.homepage .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  min-width: 714px;
+  padding: 13px 31.9px;
+}
+
+.homepage .rectangle-10 {
+  background-color: var(--white);
+  height: 140px;
+  left: 362px;
+  position: absolute;
+  top: 178px;
+  width: 403px;
+}
+
+.homepage .orders-foter {
+  height: 54px;
+  left: 489px;
+  position: absolute;
+  top: 221px;
+  width: 127px;
+}

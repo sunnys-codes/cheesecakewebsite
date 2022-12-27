@@ -1,0 +1,260 @@
+/* screen - about */
+
+.about {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1414px;
+  overflow: hidden;
+  width: 1076px;
+}
+
+.about .header {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: -4px;
+  min-width: 612px;
+}
+
+.about .pictures {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 241px;
+  justify-content: flex-end;
+  min-width: 1076px;
+  padding: 0 12px;
+}
+
+.about .overlap-group5 {
+  height: 225px;
+  position: relative;
+  width: 1044px;
+}
+
+.about .rectangle-15 {
+  width: 808px;
+  justify-content: flex-end;
+
+}
+
+.about .rectangle-18 {
+  height: 209px;
+  left: 22px;
+  position: absolute;
+  top: 16px;
+  width: 208px;
+}
+
+.about .rectangle-19 {
+  height: 225px;
+  left: 278px;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.about .rectangle-20 {
+  height: 209px;
+  left: 545px;
+  position: absolute;
+  top: 16px;
+  width: 208px;
+}
+
+.about .rectangle-21 {
+  height: 225px;
+  left: 812px;
+  position: absolute;
+  top: 0;
+  width: 222px;
+}
+
+.about .slider {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 1044px;
+}
+
+.about .reviews {
+  align-items: flex-start;
+  display: flex;
+  height: 266px;
+  min-width: 1080px;
+}
+
+.about .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 266px;
+  padding: 13px 15px;
+  width: 1076px;
+}
+
+.about .overlap-group4 {
+  height: 156px;
+  margin-top: 6px;
+  position: relative;
+  width: 1035px;
+}
+
+.about .overlap-group3 {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1035px;
+}
+
+.about .great-pies-crunch {
+  height: 151px;
+  left: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 278px;
+}
+
+.about .great-pies-crunch-1 {
+  height: 151px;
+  left: 616px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 278px;
+}
+
+.about .slider-1 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 125px;
+  width: 1035px;
+}
+
+.about .icomoon-freequotes-left {
+  height: 71px;
+  left: 933px;
+  position: absolute;
+  top: 8px;
+  width: 61px;
+}
+
+.about .vector {
+  height: 46px;
+  left: 37px;
+  position: absolute;
+  top: 16px;
+  width: 67px;
+}
+
+.about .reviewer-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 212px;
+  height: 72px;
+  min-width: 744px;
+}
+
+.about .reviewer {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  min-width: 266px;
+}
+
+.about .ellipse-6 {
+  height: 50px;
+  width: 50px;
+}
+
+.about .overlap-group {
+  height: 68px;
+  position: relative;
+  width: 198px;
+}
+
+.about .name {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 27px;
+  font-style: italic;
+  font-weight: 700;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 193px;
+}
+
+.about .food-blooger-in-la {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  width: 193px;
+}
+
+.about .reviewer-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 14px;
+  min-width: 266px;
+}
+
+.about .footer {
+  align-items: center;
+  background-color: var(--fantasy);
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  min-height: 340px;
+  padding: 21px 0;
+  width: 1076px;
+}
+
+.about .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  min-width: 714px;
+  padding: 13px 31.9px;
+}
+
+.about .overlap-group1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 140px;
+  margin-left: 15.0px;
+  min-width: 403px;
+  padding: 0 137px;
+}
+
+.about .orders-foter {
+  height: 54px;
+  width: 127px;
+}

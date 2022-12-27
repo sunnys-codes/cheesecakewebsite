@@ -1,0 +1,304 @@
+/* screen - menu */
+
+.menu {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1414px;
+  overflow: hidden;
+  width: 1076px;
+}
+
+.menu .overlap-group6 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-15@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 290px;
+  justify-content: flex-end;
+  min-width: 1076px;
+  padding: 0 444px;
+}
+
+.menu .overlap-group5 {
+  align-items: center;
+  border-radius: 11px;
+  display: flex;
+  height: 57px;
+  min-width: 174px;
+  padding: 0 22px;
+}
+
+
+.menu .overlap-group7 {
+  height: 1118px;
+  position: relative;
+  width: 1078px;
+}
+
+.menu .footer {
+  align-items: flex-end;
+  background-color: var(--fantasy);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  left: 2px;
+  min-height: 341px;
+  padding: 16px 176px;
+  position: absolute;
+  top: 777px;
+  width: 1076px;
+}
+
+.menu .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  margin-top: 25px;
+  min-width: 714px;
+  padding: 13px 31.9px;
+}
+
+.menu .overlap-group1 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--white);
+  display: flex;
+  height: 140px;
+  justify-content: flex-end;
+  margin-left: 11.0px;
+  min-width: 403px;
+  padding: 0 115px;
+}
+
+.menu .orders-foter {
+  height: 54px;
+  width: 127px;
+}
+
+.menu .menu1 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  display: flex;
+  height: 815px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1076px;
+  padding: 18.6px 23.8px;
+  position: absolute;
+  top: 0;
+}
+
+.menu .overlap-group4 {
+  height: 777px;
+  position: relative;
+  width: 1016px;
+}
+
+.menu .rectangle-26 {
+  background-color: var(--white);
+  height: 232px;
+  left: 2px;
+  position: absolute;
+  top: 273px;
+  width: 1005px;
+}
+
+.menu .rectangle-28 {
+  height: 198px;
+  left: 47px;
+  position: absolute;
+  top: 292px;
+  width: 249px;
+}
+
+.menu .group-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 232px;
+  left: 0;
+  min-width: 1005px;
+  padding: 17.3px 55.3px;
+  position: absolute;
+  top: 545px;
+}
+
+.menu .rectangle-29 {
+  height: 196px;
+  width: 241px;
+}
+
+.menu .group-5 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 2px;
+  min-height: 693px;
+  position: absolute;
+  top: 0;
+  width: 1014px;
+}
+
+.menu .overlap-group3 {
+  height: 232px;
+  margin-right: -6.0px;
+  position: relative;
+  width: 1020px;
+}
+
+.menu .rectangle-25 {
+  background-color: var(--white);
+  height: 232px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1005px;
+}
+
+.menu .rectangle-28-1 {
+  height: 190px;
+  left: 51px;
+  position: absolute;
+  top: 19px;
+  width: 243px;
+}
+
+.menu .item {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 350px;
+  min-height: 172px;
+  position: absolute;
+  top: 37px;
+  width: 670px;
+}
+
+.menu .overlap-group-1 {
+  align-self: flex-end;
+  height: 60px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 594px;
+}
+
+.menu .banaana-pudding-cheesecake {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 472px;
+}
+
+.menu .price {
+  left: 445px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.menu .the-best-banana-pudd {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 101px;
+  width: 568px;
+}
+
+.menu .item-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-right: 3.93px;
+  margin-top: 86px;
+  min-height: 113px;
+  width: 633px;
+}
+
+.menu .overlap-group1-1 {
+  align-self: flex-end;
+  height: 45px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 549px;
+}
+
+.menu .cinnamon-toast-crunch {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 472px;
+}
+
+.menu .price-1 {
+  left: 400px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.menu .crunchy-crust-filled {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 57px;
+  width: 578px;
+}
+
+.menu .item-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-right: 20.59px;
+  margin-top: 150px;
+  min-height: 113px;
+  padding: 0 0.0px;
+  width: 600px;
+}
+
+.menu .overlap-group2 {
+  align-self: flex-end;
+  height: 45px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 488px;
+}
+
+.menu .oreo-cheesecake {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 447px;
+}
+
+.menu .price-2 {
+  left: 347px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.menu .crunchy-crust-filled-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 57px;
+  width: 547px;
+}
